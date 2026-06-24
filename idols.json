@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Idol 1",
+    "height": 18,
+    "price": 5000,
+    "image": "images/idol1.jpeg"
+  },
+  {
+    "name": "Idol 2",
+    "height": 18,
+    "price": 6000,
+    "image": "images/idol2.jpeg"
+  },
+  {
+    "name": "Idol 3",
+    "height": 19,
+    "price": 5000,
+    "image": "images/idol3.jpeg"
+  },
+  {
+    "name": "Idol 4",
+    "height": 21,
+    "price": 6000,
+    "image": "images/idol4.jpeg"
+  },
+  {
+    "name": "Idol 5",
+    "height": 19,
+    "price": 5000,
+    "image": "images/idol5.jpeg"
+  },
+  {
+    "name": "Idol 6",
+    "height": 18,
+    "price": 5000,
+    "image": "images/idol6.jpeg"
+  },
+  {
+    "name": "Idol 7",
+    "height": 19,
+    "price": 5000,
+    "image": "images/idol7.jpeg"
+  },
+  {
+    "name": "Idol 8",
+    "height": 30,
+    "price": 9000,
+    "image": "images/idol8.jpeg"
+  },
+  {
+    "name": "Idol 9",
+    "height": 27,
+    "price": 9000,
+    "image": "images/idol9.jpeg"
+  },
+  {
+    "name": "Idol 10",
+    "height": 24,
+    "price": 6500,
+    "image": "images/idol10.jpeg"
+  },
+  {
+    "name": "Idol 11",
+    "height": 24,
+    "price": 7000,
+    "image": "images/idol11.jpeg"
+  },
+  {
+    "name": "Idol 12",
+    "height": 24,
+    "price": 8000,
+    "image": "images/idol12.jpeg"
+  },
+  {
+    "name": "Idol 13",
+    "height": 24,
+    "price": 7000,
+    "image": "images/idol13.jpeg"
+  },
+  {
+    "name": "Idol 14",
+    "height": 18,
+    "price": 5000,
+    "image": "images/idol14.jpeg"
+  },
+  {
+    "name": "Idol 15",
+    "height": 24,
+    "price": 6000,
+    "image": "images/idol15.jpeg"
+  },
+  {
+    "name": "Idol 16",
+    "height": 18,
+    "price": 5000,
+    "image": "images/idol16.jpeg"
+  },
+  {
+    "name": "Idol 17",
+    "height": 18,
+    "price": 6000,
+    "image": "images/idol17.jpeg"
+  },
+  {
+    "name": "Idol 18",
+    "height": 18,
+    "price": 5000,
+    "image": "images/idol18.jpeg"
+  },
+  {
+    "name": "Idol 19",
+    "height": 24,
+    "price": 6000,
+    "image": "images/idol19.jpeg"
+  },
+  {
+    "name": "Idol 20",
+    "height": 18,
+    "price": 5500,
+    "image": "images/idol20.jpeg"
+  },
+  {
+    "name": "Idol 21",
+    "height": 18,
+    "price": 5500,
+    "image": "images/idol21.jpeg"
+  },
+  {
+    "name": "Idol 22",
+    "height": 30,
+    "price": 12000,
+    "image": "images/idol22.jpeg"
+  },
+  {
+    "name": "Idol 23",
+    "height": 24,
+    "price": 7000,
+    "image": "images/idol23.jpeg"
+  },
+  {
+    "name": "Idol 24",
+    "height": 24,
+    "price": 7000,
+    "image": "images/idol24.jpeg"
+  },
+  {
+    "name": "Idol 25",
+    "height": 36,
+    "price": 12000,
+    "image": "images/idol25.jpeg"
+  },
+  {
+    "name": "Idol 26",
+    "height": 43,
+    "price": 13000,
+    "image": "images/idol26.jpeg"
+  },
+  {
+    "name": "Idol 27",
+    "height": 24,
+    "price": 7000,
+    "image": "images/idol27.jpeg"
+  },
+  {
+    "name": "Idol 28",
+    "height": 43,
+    "price": 13000,
+    "image": "images/idol28.jpeg"
+  },
+  {
+    "name": "Idol 29",
+    "height": 43,
+    "price": 12000,
+    "image": "images/idol29.jpeg"
+  }
+]
