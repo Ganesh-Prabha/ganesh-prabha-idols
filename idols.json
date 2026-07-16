@@ -172,5 +172,23 @@
     "height": 43,
     "price": 12000,
     "image": "images/idol29.jpeg"
+  },
+  {
+    "name": "Idol 30",
+    "height": 12,
+    "price": 4000,
+    "image": "images/idol30.jpeg"
+  },
+  {
+    "name": "Idol 31",
+    "height": 14,
+    "price": 5000,
+    "image": "images/idol31.jpeg"
+  },
+  {
+    "name": "Idol 32",
+    "height": 12,
+    "price": 4000,
+    "image": "images/idol32.jpeg"
   }
 ]
